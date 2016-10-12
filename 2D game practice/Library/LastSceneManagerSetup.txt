@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/GMU_2D_game_practice.unity
+  isLoaded: 1
+  isActive: 1
